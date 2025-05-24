@@ -1,6 +1,7 @@
 CREATE TABLE IF NOT EXISTS students (
-    student_id VARCHAR(32) PRIMARY KEY,,
+    student_id VARCHAR(32) PRIMARY KEY,
     full_name VARCHAR(100) NOT NULL,
+    gender VARCHAR(10),
     math_score FLOAT,
     english_score FLOAT,
     science_score FLOAT,
