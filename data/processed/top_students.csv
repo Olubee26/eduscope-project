@@ -1,0 +1,11 @@
+student_id,full_name,gender,math_score,english_score,science_score,attendance_rate,term,gpa,risk_score,engagement_level
+6447-236,Mary Taylor,Male,81.0,99.0,,96.35,2023_T2,90.0,0,High
+2653-708,Patricia Johnson,Male,95.0,91.0,80.0,76.97,2023_T2,88.66666666666667,0,Medium
+8354-797,Elizabeth Taylor,Female,86.0,95.0,80.0,99.41,2024_T1,87.0,0,High
+4335-373,Linda Smith,Male,84.0,74.0,100.0,95.65,2023_T2,86.0,0,High
+1320-977,Michael Miller,Female,59.0,100.0,96.0,74.41,2023_T2,85.0,50,Low
+9000-288,John Moore,Male,95.0,63.0,97.0,63.97,2024_T1,85.0,50,Low
+6180-869,Robert Wilson,Male,97.0,69.0,85.0,78.81,2023_T1,83.66666666666667,0,Medium
+1823-366,Linda Williams,Female,100.0,89.0,61.0,63.14,2023_T2,83.33333333333333,50,Low
+7274-339,Patricia Jones,Female,83.0,76.0,91.0,72.38,2023_T1,83.33333333333333,50,Low
+5298-786,Linda Johnson,Female,84.0,78.0,85.0,68.2,2024_T1,82.33333333333333,50,Low
